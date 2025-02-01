@@ -64,6 +64,7 @@ sample1,/path/to/sample1_R1.fastq.gz,/path/to/sample1_R2.fastq.gz
 ```
 #SampleID	Source
 #q2:types	Categorical
+Sample1  Sample1
 ```
 
 ## Parameters
