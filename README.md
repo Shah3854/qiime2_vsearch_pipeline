@@ -62,8 +62,8 @@ sample1,/path/to/sample1_R1.fastq.gz,/path/to/sample1_R2.fastq.gz
 
 2. Metadata file (TSV format):
 ```
-sample-id category1    category2
-sample1   value1       value2
+#SampleID	Source
+#q2:types	Categorical
 ```
 
 ## Parameters
