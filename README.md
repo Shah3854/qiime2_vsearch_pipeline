@@ -29,7 +29,7 @@ This pipeline performs the following steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/qiime2-vsearch-pipeline
+git clone https://github.com/Shah3854/qiime2-vsearch-pipeline
 cd qiime2-vsearch-pipeline
 ```
 
