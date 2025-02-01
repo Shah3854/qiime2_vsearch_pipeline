@@ -29,7 +29,7 @@ This pipeline performs the following steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Shah3854/qiime2-vsearch-pipeline
+git clone https://github.com/Shah3854/Qiime2_Vsearch-Pipeline
 cd qiime2-vsearch-pipeline
 ```
 
@@ -40,7 +40,7 @@ docker pull quay.io/qiime2/amplicon:2024.10
 
 3. Build the pipeline Docker image:
 ```bash
-docker build -t qiime2-vsearch-pipeline .
+docker build -t Qiime2_Vsearch-Pipeline .
 ```
 
 4. Run the pipeline:
