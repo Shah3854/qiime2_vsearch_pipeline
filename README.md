@@ -30,7 +30,7 @@ This pipeline performs the following steps:
 1. Clone the repository:
 ```bash
 git clone https://github.com/Shah3854/Qiime2_Vsearch_Pipeline.git
-cd qiime2-vsearch-pipeline
+cd Qiime2_Vsearch_Pipeline
 ```
 
 2. Pull the QIIME2 Docker image:
